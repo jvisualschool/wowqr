@@ -42,14 +42,6 @@
 
 ---
 
-## 🖼️ 스크린샷
-
-<p align="center">
-  <img src="public/splash.jpg" alt="WOWQR Splash" width="600" />
-</p>
-
----
-
 ## 🛠️ 기술 스택
 
 | 기술 | 설명 |
